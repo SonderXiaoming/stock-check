@@ -16,6 +16,7 @@ git clone https://github.com/SonderXiaoming/stock-check.git
 到HoshinoBot\hoshino\modules\stock-check目录下，管理员方式打开powershell
 
 pip install pandas
+
 3.启用：
 
 在 HoshinoBot\hoshino\config\ __bot__.py 文件的 MODULES_ON 加入 'stock-check'
