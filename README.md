@@ -7,20 +7,20 @@
 ## 食用方法
 1.下载或git clone本插件：
 
-    在 HoshinoBot\hoshino\modules 目录下使用以下命令拉取本项目
+在 HoshinoBot\hoshino\modules 目录下使用以下命令拉取本项目
 
-    git clone https://github.com/SonderXiaoming/stock-check.git
+git clone https://github.com/SonderXiaoming/stock-check.git
 
 2.装依赖：
 
-    到HoshinoBot\hoshino\modules\stock-check目录下，管理员方式打开powershell
+到HoshinoBot\hoshino\modules\stock-check目录下，管理员方式打开powershell
 
-    pip install pandas
+pip install pandas
 3.启用：
 
-    在 HoshinoBot\hoshino\config\ __bot__.py 文件的 MODULES_ON 加入 'stock-check'
+在 HoshinoBot\hoshino\config\ __bot__.py 文件的 MODULES_ON 加入 'stock-check'
 
-    然后重启 HoshinoBot
+然后重启 HoshinoBot
 ## 指令说明
 ()中表示根据情况替换,+表示空格，[]表示里面为指令
 
