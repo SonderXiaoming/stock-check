@@ -156,10 +156,6 @@ plt.plot(mid,label='MID');       plt.plot(lower,label='LOW');
 plt.plot(MA10,label='MA10',linewidth=0.5,alpha=0.7);
 plt.show()
 ```
-
-<div  align="center"> <img src="/img/sh_boll.png" width = "960" height = "480" alt="boll" /> </div>
-
-
 ----------------------------------------------------
 ### 团队其他开源项目 - 如果本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
 * [MyTT 通达信,同花顺公式指标，文华麦语言的python实现](https://github.com/mpquant/MyTT)
